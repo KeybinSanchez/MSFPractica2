@@ -14,5 +14,6 @@ identifiers:
   - type: url
     value: 'https://github.com/KeybinSanchez/MSFPractica1.git'
     description: 'Práctica 1: Diseño de controladores'
+repository-code: 'https://github.com/KeybinSanchez/MSFPractica1.git'
 version: '1.0'
 date-released: '2026-02-24'
