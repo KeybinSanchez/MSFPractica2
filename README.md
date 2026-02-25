@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Keybin Daniel Sanchez Perez \[23210721]; l23210721@tectijuana.edu.mx
+Nombres y Apellidos \[No. Control]; correo institucional
 
 Modelado de Sistemas Fisiológicos
 

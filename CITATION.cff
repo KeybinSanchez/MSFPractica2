@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 1: Sistema respiratorio simplificado'
+message: 'Modelado de Sistemas Fisiológicos / Ingeniería Biomédica '
+type: software
+authors:
+  - given-names: Sanchez Perez
+    email: l23210721@tectijuana.edu.mx
+    affiliation: Instituto Tecnológico de Tijuana
+    name-particle: Keybin Daniel
+identifiers:
+  - type: url
+    value: 'https://github.com/KeybinSanchez/MSFPractica1.git'
+    description: 'Práctica 1: Diseño de controladores'
+version: '1.0'
+date-released: '2026-02-24'
