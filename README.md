@@ -5,7 +5,7 @@
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Sanchez Perez Keybin Daniel \[23210721]; l23210721@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
