@@ -1,11 +1,10 @@
-[README.md](https://github.com/user-attachments/files/26199057/README.md)
 \[!\[Open in MATLAB Online]
 
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
 
-Sanchez Perez Keybin Daniel \[23210721]; l23210721@tectijuana.edu.mx
+Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 

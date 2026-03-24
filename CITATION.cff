@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Sistema cardiovascular'
+message: Modelado de Sistemas Fisiológico / Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Keybin D
+    family-names: Sanchez Perez
+    email: l23210721@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/KeybinSanchez/MSFPractica2.git'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/KeybinSanchez/MSFPractica2.git'
+keywords:
+  - Ingeniería Biomédica
+  - Sistema Cardiovascular
+  - Vasos Sanguíneos
+  - Práctica MATLAB
+  - Función de Transferencia
+version: '1.0'
+date-released: '2026-03-23'
